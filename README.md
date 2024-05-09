@@ -17,7 +17,6 @@ StudyNotion is a versatile educational technology (EdTech) web application that 
 ## Commands
 
 All commands are run from the root of the project, from a terminal:
-  - Clone the repository `git clone https://github.com/singhisking123/studynotion-edtech.git`.
   - Install Dependencies in server's folder `cd server` and `npm i`.
   - Install Dependencies for client do `npm i` in the root directory.
   - Run client at `localhost:3000` using `npm start`.
