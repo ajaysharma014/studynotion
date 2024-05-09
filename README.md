@@ -23,7 +23,7 @@ All commands are run from the root of the project, from a terminal:
   - Run client at `localhost:3000` using `npm start`.
   - Run server at `localhost:4000` using `npm run dev`.
 
-## Environment Variables 
+# Environment Variables 
   - For server (.env)
     ```
     JWT_SECRET="asdfasdfasdf"
